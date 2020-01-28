@@ -1,0 +1,18 @@
+/* HTML Tags*/
+h1{
+  font-family: 'Montserrat';
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+/*class Selectors*/
+.container-fluid{
+padding: 3% 15%;
+}
+
+/*id class selectors*/
+#title{
+  background-color:#ff4c68;
+}
